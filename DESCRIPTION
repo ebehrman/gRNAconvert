@@ -1,0 +1,10 @@
+Package: gRNAconvert
+Type: Package
+Title: Converts list gRNAs to primers for cloning into pcfd5 
+Version: 0.1.0
+Author: Emily L Behrman
+Maintainer: Behrmane@janelia.hhmi.org
+Description: This function converts a list gRNAs to primers for cloning into pcfd5 plasmid following the protocol of Port & Bullock (2016).
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
